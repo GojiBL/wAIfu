@@ -1,0 +1,9 @@
+speech_recognition
+pyaudio
+wave
+audioop
+openai
+typer
+rich
+time
+elevenlabs
