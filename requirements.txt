@@ -1,4 +1,4 @@
-speech_recognition
+SpeechRecognition
 pyaudio
 wave
 audioop
