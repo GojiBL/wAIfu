@@ -1,9 +1,7 @@
 SpeechRecognition
 pyaudio
 wave
-audioop
 openai
 typer
 rich
-time
 elevenlabs
